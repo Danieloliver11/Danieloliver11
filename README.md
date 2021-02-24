@@ -1,8 +1,13 @@
-### Hi there 👋
+# Hello world! 👋
+ ### Seja bem-vindo(a)
+ #### ⚡Sou estudante de análise e Desenvolvimento de Sistema, e sou apaixonado por tecnologia! Gosto de aprende algo novo, estou sempre em busca de novos conhecimentos e novas oportunidades.⚡
 
 ![gif](http://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif)
 
 <!--
+Sou estudante de Analise e Desenvolvimento de Sistema, sou apaixona por tecnologia, gosto de aprende algo novo, estou sempre em busca de novos conhecimentos.
+
+
 **Danieloliver11/Danieloliver11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
