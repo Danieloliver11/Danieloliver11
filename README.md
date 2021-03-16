@@ -3,8 +3,8 @@
  
  #### ⚡Sou estudante de análise e Desenvolvimento de Sistema, e sou apaixonado por tecnologia! Gosto de aprende algo novo, estou sempre em busca de novos conhecimentos e novas oportunidades.⚡
  
- <li><a style="width: 33.3333%; text-align: center;" href="https://www.linkedin.com/in/daniel-macedo-de-oliveira-64aa80208/" target = _blank>🔥Linkedin🔥</a><li>
  
+ <a style="width: 33.3333%; text-align: center;" href="https://www.linkedin.com/in/daniel-macedo-de-oliveira-64aa80208/" target = _blank>🔥Linkedin🔥</a>
 
 
  
