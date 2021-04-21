@@ -1,7 +1,7 @@
 # <h1 align="center">Hello world! 👋<h1>
  ### <h2 align="center">Seja bem-vindo(a)
 
- <p aling="center" >⚡Sou estudante de análise e Desenvolvimento de Sistema, e sou apaixonado por tecnologia! Gosto de aprende algo novo, estou sempre em busca de novos conhecimentos e novas oportunidades.⚡</p>
+ <p aling="center">⚡Sou estudante de análise e Desenvolvimento de Sistema, e sou apaixonado por tecnologia! Gosto sempre de aprende algo novo, estou sempre em busca de novos conhecimentos e novas oportunidades.⚡</p>
  
  
  <a style="width: 33.3333%; text-align: center;" href="https://www.linkedin.com/in/daniel-macedo-de-oliveira-64aa80208/" target = _blank><p align="center">🔥Linkedin🔥</p></a>
