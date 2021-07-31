@@ -16,8 +16,8 @@
 
 
   
-   <div >
-    <br>
+   <div align="center" >
+   
  <br>
   <a href="https://github.com/Danieloliver11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danieloliver11&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,18 +27,9 @@
 
  <br>
  <br>
- <br>
- <br>
  
-
- ![gif](https://camo.githubusercontent.com/0b6a40b3776cae6637e5f4a81a6882842dc13ea8a8af6b7fb01c010082153466/687474703a2f2f636c756265646f736765656b732e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30312f646f726d726d2e676966)
+<div align="center">
  
-
-
-
-<div style="display: inline_block"><br> 
-    
-    
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,6 +47,19 @@
 ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
  <!--![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)-->
+ 
+</div>
+<br>
+    
+ ![gif](https://camo.githubusercontent.com/0b6a40b3776cae6637e5f4a81a6882842dc13ea8a8af6b7fb01c010082153466/687474703a2f2f636c756265646f736765656b732e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30312f646f726d726d2e676966)
+ 
+
+
+
+<div style="display: inline_block"><br> 
+    
+    
+
 
 
 
