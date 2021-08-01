@@ -10,6 +10,12 @@
 <a style="width: 33.3333%; text-align: center;" href="https://www.linkedin.com/in/danieloliver11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a style="width: 33.3333%; text-align: center;" href="https://www.instagram.com/darkinhoo_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a style="width: 33.3333%; text-align: center;" href="https://steamcommunity.com/profiles/76561198119732963/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+ <a style="width: 33.3333%; text-align: center;" href="https://open.spotify.com/user/22jgernojfkv5ol7iomuzbebq" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+ 
+ 
+ 
+
+ 
 
  </div>
  
