@@ -2,7 +2,7 @@
  ### <h2 align="center">Seja bem-vindo(a)
 
  
- <p align="center">⚡Sou estudante de análise e Desenvolvimento de Sistema, e sou apaixonado por tecnologia! Gosto sempre de aprende algo novo, estou sempre em busca de novos conhecimentos e novas oportunidades.⚡</p>
+ <p align="center">⚡Sou estudante de análise e Desenvolvimento de Sistema, e sou apaixonado por tecnologia! Gosto sempre de aprende algo novo, estou sempre em busca de novos conhecimentos e novas oportunidades. </p>
  
  
 
@@ -66,11 +66,18 @@
  <br>
  <br>
    <h5 align="center"> _داكنDarkinhoداكن_</h5>
- <br>
- <br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
+ </br>
 
 
-
+ "Para brilhar, as estrelas têm que arder, até o seu glorioso fim."
 <div style="display: inline_block"><br> 
     
  <!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22jgernojfkv5ol7iomuzbebq)-->
