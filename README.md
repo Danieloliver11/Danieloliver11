@@ -73,7 +73,7 @@
 
 <div style="display: inline_block"><br> 
     
- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22jgernojfkv5ol7iomuzbebq)
+ <!-- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22jgernojfkv5ol7iomuzbebq)-->
 
 
 
