@@ -2,7 +2,7 @@
  ### <h2 align="center">Seja bem-vindo(a)
 
  
- <p align="center">⚡Sou estudante de análise e Desenvolvimento de Sistema, e sou apaixonado por tecnologia! Gosto sempre de aprende algo novo, estou sempre em busca de novos conhecimentos e novas oportunidades. </p>
+ <p align="center">⚡Me aventurando no mundo. </p>
  
  
 
