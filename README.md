@@ -2,7 +2,9 @@
  ### <h2 align="center">Seja bem-vindo(a)
 
  
- <p align="center">⚡Me aventurando no mundo. </p>
+ <p align="center">⚡Me aventurando no mundo de desenvolvimento web.⚡ </p>
+ 
+ <br>
  
  
 
