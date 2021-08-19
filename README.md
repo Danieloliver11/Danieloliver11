@@ -8,7 +8,7 @@
 
 
  
- <p align="center">⚡Me aventurando no mundo de desenvolvimento web.⚡ </p>
+ <p align="center">⚡Me aventurando no mundo do desenvolvimento web.⚡ </p>
 
  
  
