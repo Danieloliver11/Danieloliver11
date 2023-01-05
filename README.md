@@ -11,7 +11,7 @@
  <p align="center">⚡Me aventurando no mundo do desenvolvimento web.⚡ </p>
 
  
- 
+<p align="center"> <a href="https://emoji.gg/emoji/java"><img src="https://cdn3.emoji.gg/emojis/java.png" width="300px" height="300px" alt="java"></a> </p>
 
 <div align="center">
 <a style="width: 33.3333%; text-align: center;" href="https://www.linkedin.com/in/danieloliver11/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
