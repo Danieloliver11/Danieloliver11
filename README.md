@@ -66,11 +66,10 @@
  <!--![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)-->
  
 </div>
-<br>
     
- ![gif](https://camo.githubusercontent.com/0b6a40b3776cae6637e5f4a81a6882842dc13ea8a8af6b7fb01c010082153466/687474703a2f2f636c756265646f736765656b732e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f30312f646f726d726d2e676966)
+ ![pngegg](https://github.com/user-attachments/assets/da45f0bd-6858-44a3-b30e-823fa84a1050)
+
  
- <br>
  <br>
    <h5 align="center"> _داكنDarkinhoداكن_</h5>
  </br>
